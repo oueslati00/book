@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789688094896",
+    "project_id": "sawsen-4867a",
+    "storage_bucket": "sawsen-4867a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789688094896:android:b6f5a0db929ee4f3e3eb75",
+        "android_client_info": {
+          "package_name": "com.tekup.sawsen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789688094896-6r1edcaj3blq8vq7shvjq6392t8d5427.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTFi0ZR0FanMBDootQP7T1iDQFh1jo6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789688094896-6r1edcaj3blq8vq7shvjq6392t8d5427.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
